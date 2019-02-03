@@ -9,3 +9,8 @@ An example use-case is PatternLab, where dummy content is provided in the form o
 After enabling the module, use the filter in any Twig template as follows:
 
 `{{ content|dump_to_yaml }}`
+
+## TODO:
+
+- Abandon inline template in favor of a real template
+- Implement proper type checking in filter
