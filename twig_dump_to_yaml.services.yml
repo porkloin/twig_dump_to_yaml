@@ -1,0 +1,5 @@
+services:
+  twig_dump_to_yaml.dump_to_yaml:
+    class: Drupal\twig_dump_to_yaml\TwigDumpToYaml
+    tags:
+      - { name: twig.extension }

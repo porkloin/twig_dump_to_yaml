@@ -1,0 +1,5 @@
+name: Twig Dump to YAML
+type: module
+description: Custom Twig function to dump render arrays to YAML. Good for injestion into external design systems like PatternLab.
+core: 8.x
+package: Custom
